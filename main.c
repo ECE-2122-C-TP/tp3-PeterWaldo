@@ -3,18 +3,16 @@
 #include <stdio.h>
 
 
-/*int main(){
-    printf("%d", tarifBillet());
-    return 0;
-}
-*/
-
-/*int main(){
-    printf("%f", moyenne ());
-    return 0;
-}*/
-
-int main() {
-    nombreTotalEleve();
+int main(void){
+    //plusGrandEntier();
+    //afficherAireEtPerimetreRectangle();
+    //ex3();
+    //tarifBillet();
+    //distributeur();
+    //moyenne3n();
+    //nombreTotalEleve();
+    //ex8();
+    //pyramide();
+    //moyenne();
     return 0;
 }
